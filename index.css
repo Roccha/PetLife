@@ -10,6 +10,7 @@ body{
 }
 header{
     background-color: #ff9a6c;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     padding-left: 80px;
