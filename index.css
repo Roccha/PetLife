@@ -37,8 +37,10 @@ h1, h2,{
     font-size: 32px;
     margin-bottom: 32px;
 }
-
-
+.tema{
+    padding: 20px;
+    text-align: center;
+}
 .paragrafo{
     line-height: 20px;
     margin-bottom: 32px;
